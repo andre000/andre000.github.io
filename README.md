@@ -1,6 +1,6 @@
 # andre000.github.io
 
-Site pessoal, será usado como um __currículo__ e __portifólio_.
+Site pessoal, será usado como um __currículo__ e __portifólio__.
 
 ### A fazer:
 
